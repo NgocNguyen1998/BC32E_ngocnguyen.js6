@@ -2,7 +2,7 @@
 document.getElementById('tinhTong').onclick = function () {
     // input: 1+2+3+n >10000
     var sum = 0;
-    // output: number
+    // output: n number
     var soHang = 0
     // xử lý
     while (sum < 10000) {
